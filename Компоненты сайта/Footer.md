@@ -1,5 +1,5 @@
 
-🔙 [Вернуться к оглавлению](./README.md)
+[🔙 Назад к общей структуре](https://github.com/kamakarter/muravei-hr-agency)
 
 --- 
 
