@@ -1,5 +1,4 @@
-
-[🔙 Назад к общей структуре](https://github.com/kamakarter/muravei-hr-agency)
+[🔙 Назад к общей структуре](https://github.com/kamakarter/muravei-hr-agency/blob/main/README.md)
 
 --- 
 
