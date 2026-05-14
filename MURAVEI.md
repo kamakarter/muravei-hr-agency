@@ -1,4 +1,4 @@
-# 🐜 MURAVEI HR Agency
+# 🐜 HR-бюро Муравей
 
 ---
 
