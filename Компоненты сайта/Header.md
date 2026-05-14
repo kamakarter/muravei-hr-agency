@@ -1,11 +1,8 @@
 [🔙 Назад к общей структуре](https://github.com/kamakarter/muravei-hr-agency/blob/main/MURAVEI.md)
 
-
-[[MURAVEI]]
-
 ---
 
-**Логотип:** MURAVEI
+**Логотип:** 
 **Пункты меню:**
 - Услуги
 - Кейсы
